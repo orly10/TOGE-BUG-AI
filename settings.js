@@ -2,13 +2,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "24105114159"
+global.ownernomer = "25767334893"
 global.ownername = "𝚃𝙾𝙶𝙴 𝙸𝙽𝚄𝙼𝙰𝙺𝙸"
 global.ytname = "kenzo3146"
 global.socialm = "GitHub: toge012345"
 global.location = "Africa, Gabon, Libreville"
 
-global.ownernumber = '24105114159'  //creator number
+global.ownernumber = '25767334893'  //creator number
 global.ownername = '𝚃𝙾𝙶𝙴 𝙸𝙽𝚄𝙼𝙰𝙺𝙸' //owner name
 global.botname = '𝚃𝙾𝙶𝙴-𝙱𝚄𝙶-𝚅𝟸' //name of the bot
 
@@ -21,7 +21,7 @@ global.themeemoji = '👾'
 global.wm = "𝚃𝙾𝙶𝙴 𝙸𝙽𝚄𝙼𝙰𝙺𝙸"
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaiuD4s4IBhI0fzbv40Z'
+global.link = 'https://whatsapp.com/channel/0029Vb9xIs0Fsn0XZfEJij1u'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
@@ -50,7 +50,7 @@ global.bimg = '//9j/4AAQSkZJRgABAQAAAQABAAD/4gIoSUNDX1BST0ZJTEUAAQEAAAIYAAAAAAQw
 
 //reply messages
 global.mess = {
-    done: '𝗗𝗼𝗻𝗲 !',
+    done: 'Saumon !',
     prem: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗰𝗮𝗻 𝗯𝗲 𝘂𝘀𝗲𝗱 𝗯𝘆 𝗽𝗿𝗲𝗺𝗶𝘂𝗺 𝘂𝘀𝗲𝗿 𝗼𝗻𝗹𝘆',
     admin: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗰𝗮𝗻 𝗯𝗲 𝘂𝘀𝗲𝗱 𝗯𝘆 𝗮𝗱𝗺𝗶𝗻 𝗼𝗻𝗹𝘆',
     botAdmin: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗰𝗮𝗻 𝗼𝗻𝗹𝘆 𝗯𝗲 𝘂𝘀𝗲𝗱 𝘄𝗵𝗲𝗻 𝘁𝗵𝗲 𝗯𝗼𝘁 𝗶𝘀 𝗮 𝗴𝗿𝗼𝘂𝗽 𝗮𝗱𝗺𝗶𝗻',
@@ -58,7 +58,7 @@ global.mess = {
     group: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗶𝘀 𝗼𝗻𝗹𝘆 𝗳𝗼𝗿 𝗴𝗿𝗼𝘂𝗽𝘀',
     private: '𝗧𝗵𝗶𝘀 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗶𝘀 𝗼𝗻𝗹𝘆 𝗳𝗼𝗿 𝗽𝗿𝗶𝘃𝗮𝘁𝗲 𝗰𝗵𝗮𝘁𝘀',
     wait: '𝖕𝖑𝖊𝖆𝖘𝖊 𝖜𝖆𝖎𝖙... ',    
-    error: '🚫 𝗘𝗿𝗿𝗼𝗿 !',
+    error: '🚫 nien !',
 }
 
 global.thumb = fs.readFileSync('./lib/theme/thumb.jpg')
